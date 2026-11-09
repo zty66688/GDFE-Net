@@ -1,0 +1,1 @@
+This repository is the configuration repository for the paper “GDFE-Net: A Gradient-Difference and Adaptive Feature Enhancement Network for Steel Surface Defect Detection” and is intended for the review stage. 

@@ -1,0 +1,10 @@
+path: /hy-tmp/yolov11/datasets/images
+train: train  # path + train 
+val: val # path + val
+test: val # path + test
+
+# number of classes
+nc: 6
+
+# class names
+names: ['Dents', 'Oil_Spots', 'Pits_Shallow', 'Punching', 'Linear', 'Macular']
